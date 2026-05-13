@@ -1,0 +1,11 @@
+biodata=[]
+name=str(input("enter your name"))
+biodata.append(name)
+age= int(input("enter your age"))
+biodata.append(age)
+gen=str(input("enter your gender"))
+biodata.append(gen)
+city=str(input("enter your city"))
+biodata.append(city)
+school=str(input("enter your school"))
+biodata.append(school)
